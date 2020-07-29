@@ -8,7 +8,7 @@ I love data so you can consider me as Business analyst or data analyst or Data S
 -->
 <p align="left">
            * :computer: Currently developing a supply chain analytic platform :woman_technologist:<br/>
-           * :hourglass_flowing_sand: I am currently learning AWS machine learning specialization<br/>
+           * :hourglass_flowing_sand: I am currently learning AWS machine learning specialization and<br/>
            * :superhero_woman: Learning Stream data analytics<br/>
        
   </p>
