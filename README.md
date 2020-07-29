@@ -9,17 +9,17 @@ occasionally i like to teach.
 
 -->
 <html>
-<head>
-<style>
-table, th, td {
-  border: 1px solid black;
-  border-collapse: collapse;
-}
-</style>
-</head>
-<body>
-  <table>
-   <tbody>
+  <head>
+    <style>
+      table, th, td {
+       border: 1px solid black;
+       border-collapse: collapse;
+        }
+    </style>
+  </head>
+  <body>
+   <table>
+    <tbody>
        <tr>
         <td align="left">
             <p>
