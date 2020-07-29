@@ -7,13 +7,25 @@
 I am currently working with startup companies to impliment analytics. 
 occasionally i like to teach. 
 
-<p align="right">
-  <img width="250" height="250" src="https://www.kindpng.com/picc/b/430/4302854.png"></img>
-</p>
+
 <p align="left">
-* :computer: Currently developing a market analytic platform :woman_technologist: 
-* :hourglass_flowing_sand: I am currently learning AWS machine learning specialization
-* :superhero_woman: Learning Stream data analytics
-* :woman_farmer: I love organic farming                                                   
+                                                  
 </p>                                                                                          
 
+<table>
+  <tbody>
+    <tr>
+      <th>
+        * :computer: Currently developing a market analytic platform :woman_technologist: 
+        * :hourglass_flowing_sand: I am currently learning AWS machine learning specialization
+        * :superhero_woman: Learning Stream data analytics
+        * :woman_farmer: I love organic farming 
+      </th>
+      <th>
+        <p align="right">
+          <img width="250" height="250" src="https://www.kindpng.com/picc/b/430/4302854.png"></img>
+        </p>
+      </th>
+    </tr>
+  </tbody>
+</table>
