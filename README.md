@@ -5,12 +5,8 @@
 
 
 -->
-<style>
-.site-main table.no-border td {
-    border: none;
-}
-</style>
-<table class="no-border">
+
+<table board="0">
   <tbody>
     <tr>
       <td align="left">
