@@ -5,7 +5,12 @@
 
 
 -->
-<table border=0>
+<style>
+.site-main table.no-border td {
+    border: none;
+}
+</style>
+<table class="no-border">
   <tbody>
     <tr>
       <td align="left">
