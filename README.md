@@ -10,8 +10,8 @@ occasionally i like to teach.
 * :superhero_woman: Learning Stream data analytics
 
 * :woman_farmer: I love organic farming
-
-![](<img align="right" width="250" height="250" src="https://www.kindpng.com/picc/b/430/4302854.png/250/250">)
-
+<p>
+<img align="right" width="250" height="250" src="https://www.kindpng.com/picc/b/430/4302854.png/250/250">
+</p>
 
 
