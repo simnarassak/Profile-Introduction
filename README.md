@@ -8,23 +8,35 @@ occasionally i like to teach.
 
 
 -->
-
-<table boarder="0">
-  <tbody>
-    <tr>
-      <td align="left">
-        <p>
+<html>
+<head>
+<style>
+table, th, td {
+  border: 1px solid black;
+  border-collapse: collapse;
+}
+</style>
+</head>
+<body>
+  <table>
+   <tbody>
+       <tr>
+        <td align="left">
+            <p>
            * :computer: Currently developing a market analytic platform :woman_technologist:<br/>
            * :hourglass_flowing_sand: I am currently learning AWS machine learning specialization<br/>
            * :superhero_woman: Learning Stream data analytics<br/>
            * :woman_farmer: I love organic farming<br/>
-        </p>
-      </td>
-      <td>
-        <p align="right">
-          <img width="250" height="250" src="https://www.kindpng.com/picc/b/430/4302854.png"></img>
-        </p>
-      </td>
-    </tr>
-  </tbody>
-</table>
+            </p>
+         </td>
+        <td>
+          <p align="right">
+             <img width="250" height="250" src="https://www.kindpng.com/picc/b/430/4302854.png"></img>
+          </p>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+ </body>
+</html>
+
