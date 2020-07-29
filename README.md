@@ -9,7 +9,7 @@ occasionally i like to teach.
 
 -->
 
-   <table border="#FFFFFF">
+   <table>
     <tbody>
        <tr>
         <td align="left">
@@ -20,7 +20,7 @@ occasionally i like to teach.
            * :woman_farmer: I love organic farming<br/>
             </p>
          </td>
-        <td>
+         <td>
           <p align="right">
              <img width="250" height="250" src="https://www.kindpng.com/picc/b/430/4302854.png"></img>
           </p>
