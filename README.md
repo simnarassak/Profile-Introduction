@@ -20,10 +20,10 @@
     </tr>
     <tr>
       <th>
-        * :computer: Currently developing a market analytic platform :woman_technologist: 
-        * :hourglass_flowing_sand: I am currently learning AWS machine learning specialization
-        * :superhero_woman: Learning Stream data analytics
-        * :woman_farmer: I love organic farming 
+        * :computer: Currently developing a market analytic platform :woman_technologist:<br/>
+        * :hourglass_flowing_sand: I am currently learning AWS machine learning specialization<br/>
+        * :superhero_woman: Learning Stream data analytics<br/>
+        * :woman_farmer: I love organic farming<br/>
       </th>
     </tr>
   </tbody>
