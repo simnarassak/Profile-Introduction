@@ -8,17 +8,8 @@ occasionally i like to teach.
 
 
 -->
-<html>
-  <head>
-    <style>
-      table, th, td {
-       border: 1px solid black;
-       border-collapse: collapse;
-        }
-    </style>
-  </head>
-  <body>
-   <table>
+
+   <table border="000000">
     <tbody>
        <tr>
         <td align="left">
@@ -37,6 +28,5 @@ occasionally i like to teach.
       </tr>
     </tbody>
   </table>
- </body>
-</html>
+ 
 
