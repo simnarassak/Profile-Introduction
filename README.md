@@ -14,10 +14,7 @@ occasionally i like to teach.
            * :superhero_woman: Learning Stream data analytics<br/>
            * :woman_farmer: I love organic farming<br/>
   </p>
-  <p align="right">
-             <img width="400" height="400" src="https://www.wegrowwithc3.com/soon/wp-content/uploads/2019/12/55.png"></img>
-  </p>
-           
+      
          
           
        
