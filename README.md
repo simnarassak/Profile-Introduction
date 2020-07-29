@@ -17,13 +17,14 @@
           <img width="250" height="250" src="https://www.kindpng.com/picc/b/430/4302854.png"></img>
         </p>
       </th>
+    </tr>
+    <tr>
       <th>
-        * :computer: Currently developing a market analytic platform :woman_technologist: <\n>
-        * :hourglass_flowing_sand: I am currently learning AWS machine learning specialization<\n>
-        * :superhero_woman: Learning Stream data analytics<\n>
-        * :woman_farmer: I love organic farming <\n>
+        * :computer: Currently developing a market analytic platform :woman_technologist: 
+        * :hourglass_flowing_sand: I am currently learning AWS machine learning specialization
+        * :superhero_woman: Learning Stream data analytics
+        * :woman_farmer: I love organic farming 
       </th>
-      
     </tr>
   </tbody>
 </table>
