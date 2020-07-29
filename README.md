@@ -9,9 +9,9 @@ occasionally i like to teach.
 
 -->
 
-   <table border="white">
+   <table >
     <tbody>
-       <tr>
+       <tr border="0">
         <td align="left">
             <p>
            * :computer: Currently developing a market analytic platform :woman_technologist:<br/>
