@@ -12,6 +12,6 @@ occasionally i like to teach.
 * :woman_farmer: I love organic farming                                                   
                                                                                           
 <p align="right">
-  <img width="460" height="300" src="https://www.kindpng.com/picc/b/430/4302854.png/460/300"></img>
+  <img width="300" height="300" src="https://www.kindpng.com/picc/b/430/4302854.png"></img>
 </p>
 
