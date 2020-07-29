@@ -4,7 +4,7 @@
 **simnarassak/SimnaRassak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 -->
-<table>
+<table class="no-border">
   <tbody>
     <tr>
       <td align="left">
