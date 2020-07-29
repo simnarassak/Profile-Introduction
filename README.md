@@ -14,10 +14,9 @@ occasionally i like to teach.
            * :superhero_woman: Learning Stream data analytics<br/>
            * :woman_farmer: I love organic farming<br/>
   </p>
-      
-<p align="right">
-          ![system schema](simnarassak.png)
-</p>
+  <p align="right">
+  ![system schema](simnarassak.png)
+  </p>
           
        
   
