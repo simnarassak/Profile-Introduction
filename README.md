@@ -15,7 +15,9 @@ occasionally i like to teach.
            * :woman_farmer: I love organic farming<br/>
   </p>
       
-         
+<p align="right">
+          ![system schema](simnarassak.png)
+</p>
           
        
   
