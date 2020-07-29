@@ -9,7 +9,7 @@ occasionally i like to teach.
 
 -->
 
-<table board=" ">
+<table boarder="0">
   <tbody>
     <tr>
       <td align="left">
