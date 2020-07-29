@@ -15,7 +15,7 @@ occasionally i like to teach.
            * :woman_farmer: I love organic farming<br/>
   </p>
 <p align="right">
-          <img width="300",height="300",src="simnarassak.png">
+          <img width="300" height="300" src="https://github.com/simnarassak/SimnaRassak/blob/master/SimnaRassak.png">
 </p>
   
        
