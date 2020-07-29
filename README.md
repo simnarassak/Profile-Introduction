@@ -3,6 +3,10 @@
 <!--
 **simnarassak/SimnaRassak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
+<style>
+.site-main table.no-border td {
+    border: none;
+}
 -->
 <table class="no-border">
   <tbody>
