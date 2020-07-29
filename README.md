@@ -14,6 +14,7 @@ occasionally i like to teach.                                                   
 * :hourglass_flowing_sand: I am currently learning AWS machine learning specialization
 * :superhero_woman: Learning Stream data analytics
 
-* :woman_farmer: I love organic farming                                                   | ![](https://www.kindpng.com/picc/b/430/4302854.png/250/250)
+* :woman_farmer: I love organic farming                                                   
+                                                                                          | ![](https://www.kindpng.com/picc/b/430/4302854.png)
 
 
