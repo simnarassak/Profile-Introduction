@@ -14,10 +14,6 @@ I love data so you can consider me as Business analyst or data analyst or Data S
           <img width="300" height="400" src="https://github.com/simnarassak/SimnaRassak/blob/master/SimnaRassak.png">
 </p>
 
-[[params.social]]
-    icon = "linkedin"
-    icon_pack = "fa"
-    link = "https://www.linkedin.com/in/simnarassak/"
 
   
        
