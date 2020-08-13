@@ -8,7 +8,7 @@ I love data and I am a Data Scientist. I hold a Master in Computer Science and M
 -->
 <p align="left">
            * :computer: Currently developing a supply chain analytic platform :woman_technologist:<br/>
-           * :hourglass_flowing_sand: I am currently learning AWS machine learning specialization and Stream data analytics:superhero_woman: <br/> 
+           * :hourglass_flowing_sand: I am also learning AWS machine learning specialization and Stream data analytics:superhero_woman: <br/> 
   </p>
 
   
