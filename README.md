@@ -10,10 +10,6 @@ I love data and I am a Data Scientist. I hold a Master in Computer Science and M
            * :computer: Currently developing a supply chain analytic platform :woman_technologist:<br/>
            * :hourglass_flowing_sand: I am currently learning AWS machine learning specialization and Stream data analytics:superhero_woman: <br/> 
   </p>
-<p align="right">
-          <img width="300" height="400" src="https://github.com/simnarassak/SimnaRassak/blob/master/SimnaRassak.png">
-</p>
-
 
   
        
