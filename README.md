@@ -9,7 +9,7 @@
            I am a PhD Scholar<br/>
 Life long learner<br/>
 Data Scientist <br/>
-:hourglass_flowing_sand: I am also learning data Streaming -(Stream analytics, Stream mining) :superhero_woman: <br/> 
+:hourglass_flowing_sand: In a journey to find myself :superhero_woman: <br/> 
   </p>
 
   
