@@ -7,9 +7,10 @@
 -->
 <p align="left">
            I am a PhD Scholar<br/>
-Life long learner<br/>
 Data Scientist <br/>
-:hourglass_flowing_sand: In a journey to find myself :superhero_woman: <br/> 
+           I am specilized in working with multisources of data (ground truth, remote sensing (Satellite, soil sensor), etc.) <br/>
+           I focused on time series modeling and trying to understanding influence of climate change on agriculture, environment and our health to develop a data driven model to understand and prepare for the future <br/>
+:hourglass_flowing_sand:  :superhero_woman: <br/> 
   </p>
 
   
