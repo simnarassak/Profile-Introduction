@@ -6,7 +6,10 @@
 
 -->
 <p align="left">
-           Data Scientist and Ph.D. student currently focusing on my thesis writing and completing the research work. I'm passionate about leveraging multi-source data, including soil sensors, satellite imagery (Landsat, Sentinel-2), and time series analysis to address real-world challenges. My projects include developing a daily avocado yield forecasting framework (DAY) using TFT and RNN, and analyzing the impact of riparian planting on lake water quality through soil moisture sensor data. Currently researching the complex interplay between climate change and human health, particularly infectious diseases, as part of a larger digital twin project. I am using large data set like climate change models data (daily data from 2000-2099), weather data, disease surveillance (2000-2024), and population data etc.<br/>
+           Data Scientist and Ph.D. student currently engaged in thesis writing and project completion. I'm passionate about leveraging multi-source data, including soil sensors, satellite imagery (Landsat, Sentinel-2), and time series modeling and analysis to address real-world challenges. My projects include </p>br>
+           * Developing a daily avocado yield forecasting framework (DAY) using TFT and RNN.
+           * Analyzing the impact of riparian planting on lake water quality through soil moisture sensor data. Developing a soil moisture prediction model utilizing soil sensor data, NASA SMAP,GLDAS and ERA5 satellite data, NIWA weather data and local weather sensor data. 
+           *Currently, I'm researching the complex interplay between climate change and human health, particularly infectious diseases, as part of a larger digital twin project. This research involves analyzing extensive datasets, including climate change models data [CMIP5 and CMIP6] (daily data from 2000-2099), weather data, disease surveillance (2000-2024), and population data, to understand the causal relationships and potential impacts<br/>
  </p>
 
   
