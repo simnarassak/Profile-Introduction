@@ -6,9 +6,7 @@
 
 -->
 <p align="left">
-           I am a PhD Scholar and Data Scientist <br/>
-           I am specilized in working with multisources of data (ground truth, remote sensing (Satellite, soil sensor), etc.), time series modeling, Causal relatioship Inference, Deep Learning, and more <br/>
-           Currently I am focused on understanding the influence of climate change on agriculture, environment and our health to develop a data driven models to prepare for a climate aware future 🌏 <br/>
+           Data Scientist and Ph.D. student currently focusing on my thesis research. I'm passionate about leveraging multi-source data, including soil sensors, satellite imagery (Landsat, Sentinel-2), and time series analysis to address real-world challenges. My projects include developing a daily avocado yield forecasting framework (DAY) using TFT and RNN, and analyzing the impact of riparian planting on lake water quality through soil moisture sensor data. I'm currently investigating the influence of climate change on human health, particularly infectious diseases, using climate models, weather data, disease surveillance, and population data.<br/>
  </p>
 
   
